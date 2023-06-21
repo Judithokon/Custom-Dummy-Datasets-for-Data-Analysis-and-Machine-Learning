@@ -21,4 +21,4 @@ Finding suitable datasets that align perfectly with your analysis goals can be a
 Feel free to utilize these custom datasets for your data analysis, machine learning, or any other relevant projects. You can easily load these datasets into your Python environment using the pandas library or any other data manipulation tools you prefer.
 
 To get started, clone this repository to your local machine:
-git clone https://github.com/Judithokon/sparkETL-failure-detection-and-postgres-integration.git
+git clone https://github.com/Judithokon/Custom-Dummy-Datasets-for-Data-Analysis-and-Machine-Learning.git
